@@ -1,5 +1,8 @@
 <div style="text-align: center">
 ## Bienvenue sur mon Github ! 👋
+</div>
+
+<div style="text-align: center">
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairCurvy&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=GraphicShirt&clotheColor=Gray01&graphicType=Bat&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
 />
 </div>
