@@ -1,9 +1,8 @@
 <div style="text-align: center">
-  
 ## Bienvenue sur mon Github ! 👋
+  
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairCurvy&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=GraphicShirt&clotheColor=Gray01&graphicType=Bat&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
 />
-  
 </div>
 <!--
 **Chreees79/Chreees79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
