@@ -1,6 +1,7 @@
 <div align="center">
 
 # Bienvenue sur mon Github ! 👋
+## Christelle Gévaert 
 
 </div>
 
@@ -24,4 +25,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+const nickname_nanou = {
+  my_profession: "Coding Tutor" | "CSS Content Creator",
+  my_character: "shy" | "funny",
+  my_languages: [Javascript, HTML, CSS, Python, Lua],
+  my_tools: [Node],
+  my_designs: ["CSS Animations", "Logos", "Landing Pages", "Readme.md files"],
+  my_future: {
+                        learning: "UX/UI",
+                        blogging: "Anything about colors and creativity",
+                        influencer: "to be"
+                      }
+}
+
+
 -->
