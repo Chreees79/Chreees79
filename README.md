@@ -46,10 +46,14 @@ const myNicknameChris = {
 ## Mes projets...
 
 ### Place-to-play
-#### Rendez-vous sur [le repository de Place to Play !](https://github.com/Chreees79/Place_to_play) !
+
+#### Pour avoir plus d'informations et de screenshots, rendez-vous sur [le repository de Place to Play !](https://github.com/Chreees79/Place_to_play) !
 
 ### Progame
-#### Rendez-vous sur [le repository de Progame !](https://github.com/Chreees79/Progame_chris) !
+
+#### Pour avoir plus d'informations et de screenshots, rendez-vous sur [le repository de Progame !](https://github.com/Chreees79/Progame_chris) !
+
+<br>
 
 <div align="center">
   
