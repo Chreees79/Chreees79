@@ -19,21 +19,9 @@
 
 </div>
 
-<!--
-**Chreees79/Chreees79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###Quelques infos à mon sujet...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Quelques infos à mon sujet...
 <br>
 
 ```javascript 
@@ -55,5 +43,16 @@ const myNicknameChris = {
 ```
 <br>
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
+## Mes projets...
 
+### Place-to-play
+
+### Progame
+
+
+<div align="center">
+  
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
+[![chris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chreees79)](https://github.com/chreees79/github-readme-stats)
+
+</div>
