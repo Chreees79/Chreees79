@@ -60,3 +60,5 @@ const myNicknameChris = {
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
 
 </div>
+
+### <img src="https://media.giphy.com/media/c0nazaf7y7EPaJCtSQ/giphy.gif" width="60"> Rejoignez-moi !
