@@ -20,7 +20,7 @@
 </div>
 
 
-### [!books](https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif) Quelques infos à mon sujet...
+### (https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif) Quelques infos à mon sujet...
 
 <br>
 
