@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ## Quelques infos à mon sujet...
 <br>
 
-``` const myNicknameChris = {
+``` 
+
+const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
   my_training: {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
@@ -43,4 +45,5 @@ Here are some ideas to get you started:
      }
 }
 
+```
 
