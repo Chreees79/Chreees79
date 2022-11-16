@@ -61,4 +61,17 @@ const myNicknameChris = {
 
 </div>
 
+<div align="center">
+  
 ### <img src="https://media.giphy.com/media/c0nazaf7y7EPaJCtSQ/giphy.gif" width="60"> Rejoignez-moi !
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+    [![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christelle-gevaert-dev)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/chreees79?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chreees79)
+
+</div>  
