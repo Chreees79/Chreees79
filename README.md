@@ -53,6 +53,6 @@ const myNicknameChris = {
 <div align="center">
   
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
-
-
+èç
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chreees79)](https://github.com/anuraghazra/github-readme-stats)
 </div>
