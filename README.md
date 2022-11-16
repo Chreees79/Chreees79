@@ -61,9 +61,12 @@ const myNicknameChris = {
 
 </div>
 
+<br>
+<hr>
+
 <div align="center">
   
-### <img src="https://media.giphy.com/media/c0nazaf7y7EPaJCtSQ/giphy.gif" width="60"> Rejoignez-moi !
+## <img src="https://media.giphy.com/media/c0nazaf7y7EPaJCtSQ/giphy.gif" width="60"> Vous voulez me rejoindre ?
   
 </div>
 
@@ -71,7 +74,12 @@ const myNicknameChris = {
 
 <div align="center">
   
-    [![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christelle-gevaert-dev)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/chreees79?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chreees79)
+[![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christelle-gevaert-dev)
 
 </div>  
+<br>
+<div align="center">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/chreees79?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chreees79)
+
+</div>
