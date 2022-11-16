@@ -53,5 +53,6 @@ const myNicknameChris = {
 }
 
 ```
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chreees79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79)](https://github.com/chreees79/github-readme-stats)
