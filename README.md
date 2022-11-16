@@ -47,6 +47,8 @@ const myNicknameChris = {
 
 ### Place-to-play
 
+
+
 ### Progame
 
 
@@ -54,5 +56,4 @@ const myNicknameChris = {
   
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
 
-[![!chris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chreees79)](https://github.com/chreees79/github-readme-stats)
 </div>
