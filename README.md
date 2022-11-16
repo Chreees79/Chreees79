@@ -7,7 +7,7 @@
   
 <div align="center">
 
-# Bienvenue sur mon Github ! 👋
+# Bienvenue sur mon Github ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 ## Christelle Gévaert 
 
 </div>
@@ -20,7 +20,7 @@
 </div>
 
 
-### (https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif) Quelques infos à mon sujet...
+### <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="50"> Quelques infos à mon sujet...
 
 <br>
 
