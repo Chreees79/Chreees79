@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-const nickname_nanou = {
-  my_profession: "Coding Tutor" | "CSS Content Creator",
-  my_character: "shy" | "funny",
-  my_languages: [Javascript, HTML, CSS, Python, Lua],
-  my_tools: [Node],
-  my_designs: ["CSS Animations", "Logos", "Landing Pages", "Readme.md files"],
-  my_future: {
-                        learning: "UX/UI",
-                        blogging: "Anything about colors and creativity",
-                        influencer: "to be"
-                      }
-}
-
-
 -->
+## Quelques infos à mon sujet...
+
+``` const myNicknameChris = {
+  my_last_profession: "Psychologue clinicienne et Formatrice",
+  my_training: {
+    psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
+    developpement_training: "Formation Développeur Fullstack chez The Hacking Project"
+    }
+  my_languages: [HTML, CSS, Javascript, Ruby on Rails],
+  my_collaborative_tools: [Github, Trello, Notion, Miro, LiveSahre on VsCode],
+  my_future: {
+     learning: "Typescript",
+     working: "Avec une équipe en entreprise!"
+     }
+}```
+
+
