@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Quelques infos à mon sujet...
+<br>
 
 ``` const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
@@ -40,6 +41,6 @@ Here are some ideas to get you started:
      learning: "Typescript",
      working: "Avec une équipe en entreprise!"
      }
-}```
+}
 
 
