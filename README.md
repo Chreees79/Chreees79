@@ -7,7 +7,7 @@
   
 <div align="center">
 
-# Bienvenue sur mon Github ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+# Bienvenue sur mon Github ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 ## Christelle Gévaert 
 
 </div>
@@ -20,7 +20,7 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="50"> Quelques infos à mon sujet...
+### <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> Quelques infos à mon sujet...
 
 <br>
 
@@ -43,7 +43,7 @@ const myNicknameChris = {
 ```
 <br>
 
-## Mes projets...
+## <img src="https://media.giphy.com/media/Vu0PkdzYs33ugVj915/giphy.gif" width="60"> Mes projets...
 
 ### Place-to-play
 
