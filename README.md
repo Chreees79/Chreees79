@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Quelques infos à mon sujet...
 <br>
 
-``` 
+```javascript 
 
 const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
@@ -54,3 +54,4 @@ const myNicknameChris = {
 
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chreees79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
