@@ -30,8 +30,8 @@ const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
   my_training: {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
-    developpement_training: "Formation Développeur Fullstack chez The Hacking Project"
-    }
+    developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
+    },
   my_languages: [HTML, CSS, Javascript, Ruby on Rails, React],
   my_collaborative_tools: [Github, Trello, Notion, Miro, LiveSahre on VsCode],
   my_future: {
@@ -46,11 +46,10 @@ const myNicknameChris = {
 ## Mes projets...
 
 ### Place-to-play
-
-
+#### Rendez-vous sur [le repository de Place to Play !](https://github.com/Chreees79/Place_to_play) !
 
 ### Progame
-
+#### Rendez-vous sur [le repository de Progame !](https://github.com/Chreees79/Progame_chris) !
 
 <div align="center">
   
