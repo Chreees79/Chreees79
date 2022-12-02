@@ -34,6 +34,7 @@ const myNicknameChris = {
     },
   my_languages: [HTML, CSS, Javascript, Ruby on Rails, React],
   my_collaborative_tools: [Github, Trello, Notion, Miro, LiveSahre on VsCode],
+  my_testing_tools: [Jasmine, Cypress, Rspec],
   my_future: {
      learning: "Typescript",
      working: "Avec une équipe en entreprise!"
