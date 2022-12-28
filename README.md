@@ -51,7 +51,8 @@ const myNicknameChris = {
 <h4 align="center">Languages</h4>
 
 <p align="center">
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="45" height="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></p>
 
 <h4 align="center">Framework/Libraries</h4>
