@@ -80,9 +80,9 @@ const myNicknameChris = {
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.apple.com/fr/macos/ventura/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="mac" width="35" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="gitlab" width="50" height="50"/></a>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="gitlab" width="60" height="60"/></a>
 <a href="https://www.notion.so/fr-fr/product" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/></a>
-<a href="https://trello.com/fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="trello" width="50" height="50"/></a>
+<a href="https://trello.com/fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="trello" width="60" height="60"/></a>
 <a href="https://miro.com/fr/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/></a>
 </p>
 
