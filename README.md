@@ -43,7 +43,8 @@ const myNicknameChris = {
 
 ```
 <br>
-## <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> Technologies et Outils utilisés...
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60"> Technologies et Outils utilisés...
 
 <br>
 
