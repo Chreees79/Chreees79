@@ -69,7 +69,7 @@ const myNicknameChris = {
 
 </div>
 
-<div heigth="200"></div>
+<div height="200"></div>
 <hr>
 
 <div align="center">
