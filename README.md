@@ -20,7 +20,7 @@
 </div>
 
 
-### <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> Quelques infos à mon sujet...
+## <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> Quelques infos à mon sujet...
 
 <br>
 
@@ -69,7 +69,7 @@ const myNicknameChris = {
 
 </div>
 
-<div height="200"></div>
+<div height="500"></div>
 <hr>
 
 <div align="center">
