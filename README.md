@@ -62,14 +62,14 @@ const myNicknameChris = {
 
 #### Pour avoir plus d'informations et de screenshots, rendez-vous sur [le repository de Kwot'z !](https://github.com/Chreees79/kwotz-beta) !
 <br>
-
+<div height="300"></div>
 <div align="center">
   
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chreees79&show_icons=true&theme=radical)](https://github.com/chreees79/github-readme-stats)
 
 </div>
 
-<br><br>
+<br>
 <hr>
 
 <div align="center">
