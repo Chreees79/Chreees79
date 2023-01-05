@@ -32,8 +32,8 @@ const myNicknameChris = {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
     developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
     },
-  my_languages: [HTML, CSS, Javascript, Ruby on Rails, React],
-  my_collaborative_tools: [Github, Trello, Notion, Miro, LiveSahre on VsCode],
+  my_languages: [HTML, CSS, Javascript, React, Ruby on Rails],
+  my_collaborative_tools: [Github, Trello, Notion, Miro, LiveShare on VsCode, Discord],
   my_testing_tools: [Jasmine, Cypress, Rspec],
   my_future: {
      learning: "Typescript",
