@@ -40,7 +40,7 @@ const myNicknameChris = {
   "HTML", "CSS", "Javascript", "React.js", "TypeScript", "Ruby on Rails", "Node.js"
   ],
   my_collaborative_tools: [
-  "Github", "GitLab", "MongoDb compass", ClickUp", "Trello", "Notion", "Miro", "LiveShare on VsCode", "Discord"
+  "Github", "GitLab", "MongoDb compass", "ClickUp", "Trello", "Notion", "Miro", "LiveShare on VsCode", "Discord"
   ],
   my_testing_tools: [
   "Jasmine", "Cypress", "Rspec", "Jest"
