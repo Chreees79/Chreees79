@@ -28,6 +28,7 @@
 
 const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
+  my_current_profession: "Développeuse Front-End chez Repozen",
   my_training: {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
     web_development_degrees: "Titre RNCP Niveau 5 (équivalence Bac +2) Développeur Web et Web Mobile",
@@ -38,7 +39,7 @@ const myNicknameChris = {
   my_testing_tools: [Jasmine, Cypress, Rspec, jest],
   my_future: {
      learning: "Next.js",
-     working: "Avec une équipe en entreprise!"
+     working: "Sur de nouveaux projets !"
      }
 }
 
