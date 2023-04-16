@@ -24,7 +24,7 @@
 
 <br>
 
-```typescript 
+```javascript 
 
 const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
