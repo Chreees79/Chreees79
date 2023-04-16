@@ -23,8 +23,10 @@
 ## <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> Quelques infos à mon sujet...
 
 <br>
+<br>
 
 ```javascript 
+
 
 const myNicknameChris = {
   my_current_profession: "Développeuse Front-End chez Repozen",
@@ -34,9 +36,15 @@ const myNicknameChris = {
     web_development_degrees: "Titre RNCP Niveau 5 (équivalence Bac +2) Développeur Web et Web Mobile",
     developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
     },
-  my_languages: ["HTML", "CSS", "Javascript", "React.js", "TypeScript", "Ruby on Rails", "Node.js"],
-  my_collaborative_tools: ["Github", "GitLab", "ClickUp", "Trello", "Notion", "Miro", "LiveShare on VsCode", "Discord"],
-  my_testing_tools: ["Jasmine", "Cypress", "Rspec", "Jest"],
+  my_languages: [
+  "HTML", "CSS", "Javascript", "React.js", "TypeScript", "Ruby on Rails", "Node.js"
+  ],
+  my_collaborative_tools: [
+  "Github", "GitLab", "MongoDb compass", ClickUp", "Trello", "Notion", "Miro", "LiveShare on VsCode", "Discord"
+  ],
+  my_testing_tools: [
+  "Jasmine", "Cypress", "Rspec", "Jest"
+  ],
   my_future: {
      learning: "Next.js",
      working: "Sur de nouveaux projets !"
