@@ -32,11 +32,11 @@ const myNicknameChris = {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
     developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
     },
-  my_languages: [HTML, CSS, Javascript, React, Ruby on Rails],
-  my_collaborative_tools: [Github, Trello, Notion, Miro, LiveShare on VsCode, Discord],
-  my_testing_tools: [Jasmine, Cypress, Rspec],
+  my_languages: [HTML, CSS, Javascript, React.js, TypeScript, Ruby on Rails, Node.js],
+  my_collaborative_tools: [Github, GitLab, ClickUp, Trello, Notion, Miro, LiveShare on VsCode, Discord],
+  my_testing_tools: [Jasmine, Cypress, Rspec, jest],
   my_future: {
-     learning: "Typescript",
+     learning: "Next.js",
      working: "Avec une équipe en entreprise!"
      }
 }
@@ -54,6 +54,8 @@ const myNicknameChris = {
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript logo" width="40" height="40"/></a></p>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" alt="node.js icon" width="40" height="40"/></a></p>
 <a href="https://ruby-doc.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354298/ruby.svg" alt="ruby" width="40" height="40"/></a></p>
 
 <h4 align="center">Framework/Libraries</h4>
