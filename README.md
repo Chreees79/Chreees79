@@ -30,6 +30,7 @@ const myNicknameChris = {
   my_last_profession: "Psychologue clinicienne et Formatrice",
   my_training: {
     psychology_degrees: "Master 2 en psychologie clinique et Pathologique",
+    web_development_degrees: "Titre RNCP Niveau 5 (équivalence Bac +2) Développeur Web et Web Mobile",
     developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
     },
   my_languages: [HTML, CSS, Javascript, React.js, TypeScript, Ruby on Rails, Node.js],
