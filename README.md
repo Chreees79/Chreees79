@@ -65,6 +65,7 @@ const myNicknameChris = {
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://ruby-doc.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354298/ruby.svg" alt="ruby" width="40" height="40"/></a></p>
+<br>
 
 <h4 align="center">Framework/Libraries</h4>
 
@@ -77,6 +78,7 @@ const myNicknameChris = {
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap logo" width="45" height="40"/> </a>
 <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="materialui logo" width="40" height="40"/> </a>
 </p>
+<br>
 
 <h4 align="center">"Platform as a Service"(PaaS)</h4>
 
@@ -85,6 +87,7 @@ const myNicknameChris = {
 <a href="https://vercel.com/" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/round-2/180x180.png" alt="vercel" width="40" height="40"/></a>
 <a href="https://fly.io/" target="_blank"> <img src="https://fly.io/static/images/brand/brandmark.svg" alt="vercel" width="40" height="40"/></a>
 </p>
+<br>
 
 <h4 align="center">Autres</h4>
 
@@ -98,8 +101,8 @@ const myNicknameChris = {
 <a href="https://miro.com/fr/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro logo" width="40" height="40"/></a>
 </p>
 <p align="center">
-<a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="100" height="40"/></a>
-<a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="150" height="40"/></a>
+<a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="80" height="40"/></a>
+<a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="80" height="40"/></a>
 </p>
 <br>
 
