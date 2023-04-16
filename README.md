@@ -62,7 +62,7 @@ const myNicknameChris = {
 <a href="https://vitejs.dev/" target="_blank"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="vite logo" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react logo" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript logo" width="40" height="40"/></a></p>
-<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js logo" width="40" height="40"/></a></p>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js logo" width="40" height="40"/></a>
 <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="rails logo" width="50" height="50"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap logo" width="45" height="40"/> </a>
 <a href="https://mui.com/material-ui/getting-started/overview/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="materialui logo" width="40" height="40"/> </a>
