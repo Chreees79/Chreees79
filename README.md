@@ -101,8 +101,8 @@ const myNicknameChris = {
 <a href="https://miro.com/fr/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro logo" width="40" height="40"/></a>
 </p>
 <p align="center">
-<a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="80" height="40"/></a>
-<a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="80" height="40"/></a>
+<a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="40" height="40"/></a>
+<a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="40" height="40"/></a>
 </p>
 <br>
 
