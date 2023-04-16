@@ -89,7 +89,6 @@ const myNicknameChris = {
 <h4 align="center">Autres</h4>
 
 <p align="center">
- <a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="100" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" width="40" height="40"/></a>
 <a href="https://www.apple.com/fr/macos/ventura/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="mac logo" width="35" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="40" height="40"/></a>
@@ -99,7 +98,9 @@ const myNicknameChris = {
 <a href="https://miro.com/fr/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro logo" width="40" height="40"/></a>
 <a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="150" height="40"/></a>
 </p>
-
+<p align="center">
+<a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb linux logo" width="100" height="40"/></a>
+</p>
 <br>
 
 ## <img src="https://media.giphy.com/media/Vu0PkdzYs33ugVj915/giphy.gif" width="60"> Mes projets...
