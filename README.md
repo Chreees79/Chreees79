@@ -102,7 +102,7 @@ const myNicknameChris = {
 </p>
 <p align="center">
 <a href="https://www.mongodb.com/fr-fr" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb linux logo" width="40" height="40"/></a>
-<a href="https://clickup.com/" target="_blank"> <img src="https://clickup.com/images/brand-assets/logo-color-transparent.svg" alt="clickup logo" width="40" height="40"/></a>
+<a href="https://clickup.com/" target="_blank"> <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" alt="clickup logo" width="40" height="40"/></a>
 </p>
 <br>
 
