@@ -37,7 +37,7 @@ const myNicknameChris = {
     developpement_training: "Formation Développeur Fullstack et Dev ++ chez The Hacking Project"
     },
   my_languages: [
-  "HTML", "CSS", "Javascript", "React.js", "TypeScript", "Ruby", "Ruby on Rails", "Node.js"
+  "HTML", "CSS", "Javascript", "React.js", "TypeScript", "Ruby", "Ruby on Rails", "Node.js", "Next.js"
   ],
   my_collaborative_tools: [
   "Github", "GitLab", "MongoDb compass", "ClickUp", "Trello", "Notion", "Miro", "LiveShare on VsCode", "Discord"
@@ -46,7 +46,7 @@ const myNicknameChris = {
   "Jasmine", "Cypress", "Rspec", "Jest"
   ],
   my_future: {
-     learning: "Next.js",
+     learning: "Angular",
      working: "Sur de nouveaux projets !"
      }
 }
